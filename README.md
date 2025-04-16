@@ -1,3 +1,0 @@
-# RomRepo.com
-
-Project homepage
